@@ -3,11 +3,20 @@ entries:
   aps:
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2018-08-01T11:58:43.839706032+03:00
+    created: 2018-08-01T14:12:49.391827054+03:00
+    description: APS Helm chart for Kubernetes
+    digest: e4f86e8b0f8e133089469c4d3bfd0928b38b65942690c8d5f530852fa9ef8294
+    name: aps
+    urls:
+    - https://almerico.github.io/helmcharts/aps-0.2.0.tgz
+    version: 0.2.0
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: 2018-08-01T14:12:49.387384233+03:00
     description: APS Helm chart for Kubernetes
     digest: cfac294b0eb7fda9ed9b7f81eab6c5ce1000f8f7e4976a49c631c2b252537aa1
     name: aps
     urls:
-    - https://github.com/almerico/helmrepo/aps-0.1.0.tgz
+    - https://almerico.github.io/helmcharts/aps-0.1.0.tgz
     version: 0.1.0
-generated: 2018-08-01T11:58:43.836766938+03:00
+generated: 2018-08-01T14:12:49.386743785+03:00
