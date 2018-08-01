@@ -8,6 +8,6 @@ entries:
     digest: cfac294b0eb7fda9ed9b7f81eab6c5ce1000f8f7e4976a49c631c2b252537aa1
     name: aps
     urls:
-    - https://github.com/almerico/helmrepo/aps-0.1.0.tgz
+    - https://almerico.github.com/helmrepo/aps-0.1.0.tgz
     version: 0.1.0
 generated: 2018-08-01T11:58:43.836766938+03:00
