@@ -3,11 +3,21 @@ entries:
   aps:
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2018-08-01T15:33:57.068120056+03:00
+    created: 2018-08-28T18:56:18.709527885+03:00
     description: APS Helm chart for Kubernetes
     digest: 62aebbc460db2ae60c11ea25ac65837f86ecd827bbd0ab133395a45ee8333089
     name: aps
     urls:
-    - https://almerico.github.io/helmrepo/aps-0.1.0.tgz
+    - aps-0.1.0.tgz
     version: 0.1.0
-generated: 2018-08-01T15:33:57.064703503+03:00
+  aps-deployer:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: 2018-08-28T18:56:18.709861311+03:00
+    description: A Helm chart for Kubernetes
+    digest: 2ca05b9d0eaa606dae20720f77b80ba4d0a6a0407ff35b7ed979a64e5a1c16b3
+    name: aps-deployer
+    urls:
+    - aps-deployer-0.1.0.tgz
+    version: 0.1.0
+generated: 2018-08-28T18:56:18.708032914+03:00
