@@ -1,0 +1,45 @@
+apiVersion: v1
+entries:
+  activiti-cloud-query:
+  - apiVersion: v1
+    created: 2018-11-15T08:34:37.866314233Z
+    description: A Helm chart for Kubernetes
+    digest: b15d00fea19d8da25d4e513348bc4ce4250b41023511711e5df6178cb1d54b26
+    icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
+    name: activiti-cloud-query
+    urls:
+    - activiti-cloud-query-7.0.11.tgz
+    version: 7.0.11
+  alfresco-infrastructure:
+  - apiVersion: v1
+    created: 2018-11-15T08:34:37.87045214Z
+    description: A Helm chart Providing the required Alfresco infrastructure for the
+      Digital Business Platform. This includes activemq, alfresco-api-gateway, alfresco-identity-service,
+      nginx-ingress and a persistent volume to use with the dbp chart.
+    digest: 897f79d24e032e0bafc59ce8cbe817778b2303819743c1fd2dd44d69935e6c72
+    icon: https://avatars0.githubusercontent.com/u/391127?s=200&v=4
+    name: alfresco-infrastructure
+    urls:
+    - docs/alfresco-infrastructure-2.0.2-SNAPSHOT.tgz
+    version: 2.0.2-SNAPSHOT
+  aps:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: 2018-11-15T08:34:37.870878854Z
+    description: APS Helm chart for Kubernetes
+    digest: 62aebbc460db2ae60c11ea25ac65837f86ecd827bbd0ab133395a45ee8333089
+    name: aps
+    urls:
+    - docs/aps-0.1.0.tgz
+    version: 0.1.0
+  aps-deployer:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: 2018-11-15T08:34:37.871170864Z
+    description: A Helm chart for Kubernetes
+    digest: 2ca05b9d0eaa606dae20720f77b80ba4d0a6a0407ff35b7ed979a64e5a1c16b3
+    name: aps-deployer
+    urls:
+    - docs/aps-deployer-0.1.0.tgz
+    version: 0.1.0
+generated: 2018-11-15T08:34:37.865849854Z
