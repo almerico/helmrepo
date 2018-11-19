@@ -1,8 +1,18 @@
 apiVersion: v1
 entries:
+  activiti-cloud-audit:
+  - apiVersion: v1
+    created: 2018-11-19T14:53:25.945797988Z
+    description: A Helm chart for Kubernetes
+    digest: 69edd8bacc75e3f1e5136bdbd2efaf12e5de5cf310e747d950b6d8fa522f092e
+    icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
+    name: activiti-cloud-audit
+    urls:
+    - activiti-cloud-audit-7.0.3.tgz
+    version: 7.0.3
   activiti-cloud-query:
   - apiVersion: v1
-    created: 2018-11-19T14:28:55.302579597Z
+    created: 2018-11-19T14:53:25.949497134Z
     description: A Helm chart for Kubernetes
     digest: 6fbf73bfc7786cbea34c7eab584f01e6dc747e54e52104e206e5aaf2f6ff5cf2
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
@@ -11,7 +21,7 @@ entries:
     - activiti-cloud-query-7.0.40.tgz
     version: 7.0.40
   - apiVersion: v1
-    created: 2018-11-19T14:28:55.302284112Z
+    created: 2018-11-19T14:53:25.949087364Z
     description: A Helm chart for Kubernetes
     digest: 73c36fcefb9a97a10fd5e4098742c7b121bbce25714ad07a6631364f39d7e2cb
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
@@ -20,7 +30,7 @@ entries:
     - activiti-cloud-query-7.0.39.tgz
     version: 7.0.39
   - apiVersion: v1
-    created: 2018-11-19T14:28:55.302003402Z
+    created: 2018-11-19T14:53:25.948761018Z
     description: A Helm chart for Kubernetes
     digest: 8e3c52853b469d9ffe91c3c13b114619adf1cafe72e6d770acdc53046f3c1b94
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
@@ -29,7 +39,7 @@ entries:
     - activiti-cloud-query-7.0.38.tgz
     version: 7.0.38
   - apiVersion: v1
-    created: 2018-11-19T14:28:55.30168475Z
+    created: 2018-11-19T14:53:25.948421068Z
     description: A Helm chart for Kubernetes
     digest: 9b285e3350bd4230e995725b898a1c56203e4244b37184ccd6e6bb88720e1018
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
@@ -38,7 +48,7 @@ entries:
     - activiti-cloud-query-7.0.37.tgz
     version: 7.0.37
   - apiVersion: v1
-    created: 2018-11-19T14:28:55.301379133Z
+    created: 2018-11-19T14:53:25.948119656Z
     description: A Helm chart for Kubernetes
     digest: 3888e0fcfd9b0a4a413f52e9fee0dd1a6e47c07218ad909c3ae486adf294f83f
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
@@ -47,7 +57,7 @@ entries:
     - activiti-cloud-query-7.0.36.tgz
     version: 7.0.36
   - apiVersion: v1
-    created: 2018-11-19T14:28:55.301081025Z
+    created: 2018-11-19T14:53:25.94780085Z
     description: A Helm chart for Kubernetes
     digest: 0654f76a25a235f7e3b9ef5ef543c34cf594e941f2f1d989198a100a67a34781
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
@@ -56,7 +66,7 @@ entries:
     - activiti-cloud-query-7.0.31.tgz
     version: 7.0.31
   - apiVersion: v1
-    created: 2018-11-19T14:28:55.3007557Z
+    created: 2018-11-19T14:53:25.947477225Z
     description: A Helm chart for Kubernetes
     digest: b89368933cb7004bc5e39661f15852f7a5218ee23c1f564ea0b1b256c76152d6
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
@@ -65,7 +75,7 @@ entries:
     - activiti-cloud-query-7.0.30.tgz
     version: 7.0.30
   - apiVersion: v1
-    created: 2018-11-19T14:28:55.300467357Z
+    created: 2018-11-19T14:53:25.947149501Z
     description: A Helm chart for Kubernetes
     digest: 30c25e07372f7f8f5281dac42a586caadc9b0e4b812b2df853faa2608cd26ff2
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
@@ -74,7 +84,7 @@ entries:
     - activiti-cloud-query-7.0.29.tgz
     version: 7.0.29
   - apiVersion: v1
-    created: 2018-11-19T14:28:55.300167547Z
+    created: 2018-11-19T14:53:25.946835493Z
     description: A Helm chart for Kubernetes
     digest: 09165d5833c630ce6466ef31db5e9ec7e0e9354006995f93ef62415b1295fea1
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
@@ -83,7 +93,7 @@ entries:
     - activiti-cloud-query-7.0.28.tgz
     version: 7.0.28
   - apiVersion: v1
-    created: 2018-11-19T14:28:55.299869517Z
+    created: 2018-11-19T14:53:25.946500544Z
     description: A Helm chart for Kubernetes
     digest: c767e37502b6144aa8dd9aa7fd7b56d07fef2225301fa10fe051173143ee341c
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
@@ -92,7 +102,7 @@ entries:
     - activiti-cloud-query-7.0.26.tgz
     version: 7.0.26
   - apiVersion: v1
-    created: 2018-11-19T14:28:55.29951181Z
+    created: 2018-11-19T14:53:25.946181356Z
     description: A Helm chart for Kubernetes
     digest: b15d00fea19d8da25d4e513348bc4ce4250b41023511711e5df6178cb1d54b26
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
@@ -100,4 +110,4 @@ entries:
     urls:
     - activiti-cloud-query-7.0.11.tgz
     version: 7.0.11
-generated: 2018-11-19T14:28:55.299014912Z
+generated: 2018-11-19T14:53:25.944352467Z
