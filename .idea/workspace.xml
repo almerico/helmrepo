@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4911fa5f-14d6-4f12-ac06-720cde19e004" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/activiti-cloud-audit-7.0.10.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/activiti-cloud-audit-7.0.11.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/activiti-cloud-audit-7.0.12.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/activiti-cloud-audit-7.0.3.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/activiti-cloud-audit-7.0.6.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/activiti-cloud-audit-7.0.8.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/activiti-cloud-audit-7.0.9.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/activiti-cloud-connector-1.0.1.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/activiti-cloud-connector-1.0.2.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/activiti-cloud-connector-1.0.3.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/activiti-cloud-connector-1.0.4.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/activiti-cloud-connector-1.0.5.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/activiti-cloud-connector-1.0.6.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/activiti-cloud-full-example-0.0.1.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/activiti-cloud-full-example-0.0.10.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/activiti-cloud-full-example-0.0.11.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/activiti-cloud-full-example-0.0.12.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/activiti-cloud-full-example-0.0.13.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/activiti-cloud-full-example-0.0.14.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/activiti-cloud-full-example-0.0.15.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/activiti-cloud-full-example-0.0.16.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/activiti-cloud-full-example-0.0.17.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/activiti-cloud-full-example-0.0.18.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/activiti-cloud-full-example-0.0.19.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/activiti-cloud-full-example-0.0.2.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/activiti-cloud-full-example-0.0.20.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/activiti-cloud-full-example-0.0.21.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/activiti-cloud-full-example-0.0.22.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/activiti-cloud-full-example-0.0.23.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/activiti-cloud-full-example-0.0.24.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/activiti-cloud-full-example-0.0.25.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/activiti-cloud-full-example-0.0.26.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/activiti-cloud-full-example-0.0.27.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/activiti-cloud-full-example-0.0.28.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/activiti-cloud-full-example-0.0.29.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/activiti-cloud-full-example-0.0.3.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/activiti-cloud-full-example-0.0.30.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/activiti-cloud-full-example-0.0.31.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/activiti-cloud-full-example-0.0.32.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/activiti-cloud-full-example-0.0.33.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/activiti-cloud-full-example-0.0.34.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/activiti-cloud-full-example-0.0.35.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/activiti-cloud-full-example-0.0.36.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/activiti-cloud-full-example-0.0.37.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/activiti-cloud-full-example-0.0.39.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/activiti-cloud-full-example-0.0.4.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/activiti-cloud-full-example-0.0.40.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/activiti-cloud-full-example-0.0.41.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/activiti-cloud-full-example-0.0.42.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/activiti-cloud-full-example-0.0.43.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/activiti-cloud-full-example-0.0.45.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/activiti-cloud-full-example-0.0.46.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/activiti-cloud-full-example-0.0.47.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/activiti-cloud-full-example-0.0.48.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/activiti-cloud-full-example-0.0.5.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/activiti-cloud-full-example-0.0.6.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/activiti-cloud-full-example-0.0.7.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/activiti-cloud-full-example-0.0.8.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/activiti-cloud-full-example-0.0.9.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/activiti-cloud-modeling-7.0.1.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/activiti-cloud-modeling-7.0.2.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/activiti-cloud-modeling-7.0.3.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/activiti-cloud-modeling-7.0.4.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/activiti-cloud-modeling-7.0.5.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/activiti-cloud-modeling-7.0.8.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/activiti-cloud-query-7.0.100.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/activiti-cloud-query-7.0.11.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/activiti-cloud-query-7.0.26.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/activiti-cloud-query-7.0.28.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/activiti-cloud-query-7.0.29.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/activiti-cloud-query-7.0.30.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/activiti-cloud-query-7.0.31.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/activiti-cloud-query-7.0.36.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/activiti-cloud-query-7.0.37.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/activiti-cloud-query-7.0.38.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/activiti-cloud-query-7.0.39.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/activiti-cloud-query-7.0.40.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/activiti-cloud-query-7.0.41.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/activiti-cloud-query-7.0.42.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/activiti-cloud-query-7.0.43.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/activiti-cloud-query-7.0.44.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/activiti-cloud-query-7.0.45.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/activiti-cloud-query-7.0.46.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/activiti-cloud-query-7.0.47.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/activiti-cloud-query-7.0.48.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/activiti-cloud-query-7.0.49.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/activiti-cloud-query-7.0.50.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/activiti-cloud-query-7.0.51.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/activiti-cloud-query-7.0.52.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/activiti-cloud-query-7.0.53.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/activiti-cloud-query-7.0.54.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/activiti-cloud-query-7.0.55.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/activiti-cloud-query-7.0.56.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/activiti-cloud-query-7.0.57.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/activiti-cloud-query-7.0.58.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/activiti-cloud-query-7.0.59.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/activiti-cloud-query-7.0.60.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/activiti-cloud-query-7.0.61.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/activiti-cloud-query-7.0.62.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/activiti-cloud-query-7.0.63.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/activiti-cloud-query-7.0.64.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/activiti-cloud-query-7.0.65.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/activiti-cloud-query-7.0.66.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/activiti-cloud-query-7.0.67.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/activiti-cloud-query-7.0.68.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/activiti-cloud-query-7.0.70.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/activiti-cloud-query-7.0.71.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/activiti-cloud-query-7.0.72.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/activiti-cloud-query-7.0.73.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/activiti-cloud-query-7.0.74.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/activiti-cloud-query-7.0.75.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/activiti-cloud-query-7.0.76.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/activiti-cloud-query-7.0.77.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/activiti-cloud-query-7.0.78.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/activiti-cloud-query-7.0.79.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/activiti-cloud-query-7.0.80.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/activiti-cloud-query-7.0.81.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/activiti-cloud-query-7.0.82.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/activiti-cloud-query-7.0.83.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/activiti-cloud-query-7.0.87.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/activiti-cloud-query-7.0.88.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/activiti-cloud-query-7.0.89.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/activiti-cloud-query-7.0.90.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/activiti-cloud-query-7.0.91.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/activiti-cloud-query-7.0.92.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/activiti-cloud-query-7.0.93.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/activiti-cloud-query-7.0.94.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/activiti-cloud-query-7.0.95.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/activiti-cloud-query-7.0.96.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/activiti-cloud-query-7.0.97.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/activiti-cloud-query-7.0.99.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application-0.0.10.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application-0.0.11.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application-0.0.12.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application-0.0.13.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application-0.0.14.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application-0.0.15.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application-0.0.16.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application-0.0.17.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application-0.0.18.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application-0.0.19.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application-0.0.20.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application-0.0.21.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application-0.0.22.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application-0.0.23.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application-0.0.24.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application-0.0.25.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application-0.0.26.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application-0.0.27.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application-0.0.28.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application-0.0.29.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application-0.0.30.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application-0.0.31.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application-0.0.32.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application-0.0.33.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application-0.0.34.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application-0.0.35.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application-0.0.36.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application-0.0.37.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application-0.0.38.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application-0.0.39.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application-0.0.40.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application-0.0.41.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application-0.0.42.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application-0.0.43.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application-0.0.44.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application-0.0.45.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application-0.0.46.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application-0.0.47.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application-0.0.48.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application-0.0.49.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application-0.0.50.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application-0.0.51.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application-0.0.52.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application-0.0.53.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application-0.0.54.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application-0.0.55.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application-0.0.56.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application-0.0.57.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application-0.0.58.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application-0.0.59.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application-0.0.60.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application-0.0.61.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application-0.0.62.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application-0.0.63.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application-0.0.64.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application-0.0.66.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application-0.0.67.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application-0.0.69.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application-0.0.70.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application-0.0.71.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application-0.0.72.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application-0.0.73.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application-0.0.74.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application-0.0.75.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application-0.0.76.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application-0.0.80.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application-0.0.81.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application-0.0.82.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application-0.0.83.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application-0.0.84.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application-0.0.85.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application-0.0.86.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application-0.0.87.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application-0.0.88.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application-0.0.89.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application-0.0.9.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application-0.0.90.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application-0.0.91.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application-0.0.92.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application-0.0.93.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application-0.0.94.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/application-0.0.95.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/infrastructure-0.0.1.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/infrastructure-0.0.2.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtime-bundle-7.0.12.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtime-bundle-7.0.13.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtime-bundle-7.0.14.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtime-bundle-7.0.15.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtime-bundle-7.0.16.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtime-bundle-7.0.17.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtime-bundle-7.0.18.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtime-bundle-7.0.19.tgz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtime-bundle-7.0.20.tgz" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="helmrepo" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="740" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4911fa5f-14d6-4f12-ac06-720cde19e004" name="Default" comment="" />
+      <created>1542883851826</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1542883851826</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1280" height="740" extended-state="6" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Designer" order="2" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4992224" visible="true" weight="0.2536349" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="right" id="BPMNPalette" order="3" />
+      <window_info id="Structure" order="1" sideWeight="0.5007776" side_tool="true" visible="true" weight="0.2536349" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" sideWeight="0.5007776" side_tool="true" weight="0.2536349" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+</project>
